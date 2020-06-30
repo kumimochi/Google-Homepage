@@ -32,6 +32,11 @@ li a {
   padding-top: 10px;
 }
 
+ul button {
+  background-color: rgb(72, 133, 237);
+  color: white;
+}
+
 input {
   height: 41px;
   width: 550px;
